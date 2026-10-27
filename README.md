@@ -172,3 +172,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Security reports go through
 ## License
 
 [MIT](LICENSE)
+
+<!-- fix: issue #208 - Stellar testnet vs mainnet config switch is not validated at startup -->
